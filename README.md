@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning Advanced Python Coding
 - 📫 How to reach me: You Can Reach me @ [Instagram](https://instagram.com/jayantkageri) and [Telegram](https://telegram.dog/jayantkageri)
 - 💻 My Website : [jayantkageri.github.io](https://jayantkageri.github.io)
+- I don't have any Public Repositories because my all Projects are Closed Source
+- Know my Full Information @ [This Channel](telegram.dog/Know_About_Your_Dad)
