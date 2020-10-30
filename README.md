@@ -7,4 +7,4 @@
 - I don't have any Public Repositories because my all Projects are Closed Source
 - Know my Full Information @ [This Channel](https://telegram.dog/Know_About_Your_Dad)
 
-[![Jayant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight)
