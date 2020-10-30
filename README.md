@@ -6,4 +6,6 @@
 - I don't have any Public Repositories because my all Projects are Closed Source
 - Know my Full Information @ [This Telegram Channel](https://telegram.dog/Know_About_Your_Dad)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight&include_all_commits=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
