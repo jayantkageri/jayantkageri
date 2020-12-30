@@ -7,7 +7,8 @@
 - Know my Full Information @ [This Telegram Channel](https://telegram.dog/Know_About_Your_Dad)
 
 ### Donation
-- Donation Link : https://me.fampay.in/jayantkageri
+- Donation Link [ UPI ] : https://me.fampay.in/jayantkageri
+- Donation Link [ PayPal ] : https://paypal.me/jayantkageri
 ```
 A Little Donation also Helps,
 It helps me to pay the Server Charges of My Bot Monthly,
