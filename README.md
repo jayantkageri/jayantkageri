@@ -1,14 +1,13 @@
 ### Hi there 🤘
 
-- 🔭 I’m currently working on [My Bot](t.me/TGGroupManager_bot)
+- 🔭 I’m currently working on Some Telegram Projects
 - 🌱 I’m currently learning Advanced Python Coding
-- 📫 How to reach me: You Can Reach me @ [Instagram](https://instagram.com/jayantkageri) and [Telegram](https://telegram.dog/jayantkageri)
+- 📫 How to reach me: You Can Reach me @ any of My Social Media Platforms that are Listed [here](https://t.ly/jayantkageri)
 - I don't have any Public Repositories because my all Projects are Closed Source
-- Know my Full Information @ [This Telegram Channel](https://telegram.dog/Know_About_Your_Dad)
+- Know my Full Information [here](https://telegram.dog/Know_About_Your_Dad)
 
 ### Donation
 - Donation Link [ UPI ] : https://me.fampay.in/jayantkageri
-- Donation Link [ PayPal ] : https://paypal.me/jayantkageri
 ```
 A Little Donation also Helps,
 It helps me to pay the Server Charges of My Bot Monthly,
