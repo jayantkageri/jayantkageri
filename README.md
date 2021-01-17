@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Some Telegram Projects
 - 🌱 I’m currently learning Advanced Python Coding
-- 📫 How to reach me: You Can Reach me @ any of My Social Media Platforms that are Listed [here](https://telegra.ph/My-Social-Media-Links-09-21)
+- 📫 How to reach me: You Can Reach me @ any of My Social Media Platforms that are Listed [here](http://contact.jayantkageri.ml)
 - I don't have any Public Repositories because my all Projects are Closed Source
 - Know my Full Information [here](https://telegram.dog/Know_About_Your_Dad)
 
