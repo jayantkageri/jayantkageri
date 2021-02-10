@@ -30,7 +30,6 @@ from telethon import *
 from . import *
 
 cbot = '@MissRose_Bot'
-rbot = '@rSophieBot'
 
 conversation_hack = dict()
 
@@ -92,17 +91,6 @@ if json['success']:
 
 spamprotection = text
 
-# Dahua Engine
-async with borg.conversation(rbot) as conv:
- await conv.send_message("/start")
- await conv.get_response()
- sysarg = event.pattern_match.group(1)
- await conv.send_message(f"/fcheck {sysarg} 845d33d3-0961-4e44-b4b5-4c57775fbdac")
- msg = await conv.get_response()
- dahuaengine = await msg.text
-
-except YouBlockedUserError
-
 # SpamWatch
 
 import spamwatch
@@ -119,7 +107,6 @@ async with borg.conversation(cbot) as conv:
  msg = await conv.get_response()
  rosefed = await msg.text
 
-
 LAST_MSG = f"""
 USER : {sysarg}
 
@@ -133,6 +120,36 @@ CAS : {cas}
 
 Spam Protection : {spamprotection}
 
-Dahua Engine : {dahuaengine}
 """
 await ok.edit(LAST_MSG)
+
+
+@borg.on(admin_cmd(outgoing=True, pattern="anon (.*)"))
+@borg.on(sudo_cmd(outgoing=True, pattern="anon (.*)", allow_sudo=True))
+async def _(event):
+  ok = await event.edit("Searching...")
+  await ok.edit(anony)
+
+@borg.on(admin_cmd(outgoing=True, pattern="sw (.*)"))
+@borg.on(sudo_cmd(outgoing=True, pattern="sw (.*)", allow_sudo=True))
+async def _(event):
+  ok = await event.edit("Searching...")
+  await ok.edit(swban)
+
+@borg.on(admin_cmd(outgoing=True, pattern="cas (.*)"))
+@borg.on(sudo_cmd(outgoing=True, pattern="cas (.*)", allow_sudo=True))
+async def _(event):
+  ok = await event.edit("Searching...")
+  await ok.edit(cas)
+
+@borg.on(admin_cmd(outgoing=True, pattern="rose (.*)"))
+@borg.on(sudo_cmd(outgoing=True, pattern="rose (.*)", allow_sudo=True))
+async def _(event):
+  ok = await event.edit("Searching...")
+  ok = await event.edit(rosefed)
+
+@borg.on(admin_cmd(outgoing=True, pattern="spro (.*)"))
+@borg.on(sudo_cmd(outgoing=True, pattern="spro (.*)", allow_sudo=True))
+async def _(event):
+  ok = await event.edit("Searching...")
+  await ok.edit(spamprotection)
