@@ -110,10 +110,22 @@ SW_API = os.environ.get('SW_API')
 client = spamwatch.Client(SW_API)
 swban = client.get_ban(sysarg)
 
+# Rose Support Official
+async with borg.conversation(cbot) as conv:
+ await conv.send_message("/start")
+ await conv.get_response()
+ sysarg = event.pattern_match.group(1)
+ await conv.send_message(f"/fedstat {sysarg} 86718661-6bfc-4bd0-9447-7c419eb08e69")
+ msg = await conv.get_response()
+ rosefed = await msg.text
+
+
 LAST_MSG = f"""
 USER : {sysarg}
 
 @TheAnonymoysArmy : {anony}
+
+Rose Support Official : {rosefed}
 
 @SpamWatch {swban}
 
