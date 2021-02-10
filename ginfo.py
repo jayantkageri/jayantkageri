@@ -30,6 +30,7 @@ from telethon import *
 from . import *
 
 cbot = '@MissRose_Bot'
+rbot = '@rSophieBot'
 
 conversation_hack = dict()
 
