@@ -100,7 +100,8 @@ async with borg.conversation(rbot) as conv:
  await conv.send_message(f"/fcheck {sysarg} 845d33d3-0961-4e44-b4b5-4c57775fbdac")
  msg = await conv.get_response()
  dahuaengine = await msg.text
-  except YouBlockedUserError
+
+except YouBlockedUserError
 
 # SpamWatch
 
