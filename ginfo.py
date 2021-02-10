@@ -121,5 +121,7 @@ USER : {sysarg}
 CAS : {cas}
 
 Spam Protection : {spamprotection}
+
+Dahua Engine : {dahuaengine}
 """
 await ok.edit(LAST_MSG)
