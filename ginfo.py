@@ -106,10 +106,9 @@ except YouBlockedUserError
 # SpamWatch
 
 import spamwatch
-
 SW_API = os.environ.get('SW_API')
 client = spamwatch.Client(SW_API)
-swban = client.get_ban({sysarg})
+swban = client.get_ban(sysarg)
 
 LAST_MSG = f"""
 USER : {sysarg}
