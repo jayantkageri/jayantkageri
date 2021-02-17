@@ -37,3 +37,5 @@ My Open-source Projects are Licenced Under GNU General Public License v3.0
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight&include_all_commits=True)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantkageri&" alt="jayantkageri" /></p>
