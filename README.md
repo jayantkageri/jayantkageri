@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Advanced Python Coding
 - 📫 How to reach me: You Can Reach me @ any of My Social Media Platforms that are Listed [here](http://contact.jayantkageri.ml)
 - I don't have any Public Repositories because my all Projects are Closed Source
-- Know my Full Information [here](https://telegram.dog/Know_About_Your_Dad)
+- Know my Full Information [here](https://telegram.dog/kageri250)
 
 ### Donation
 - Donation Link : [Click Here](http://donate.jayantkageri.ml)
@@ -18,10 +18,10 @@ My Open-source Projects are Licenced Under GNU General Public License v3.0
 ```
     Copyright (C) 2020 - 2021 Jayant Kageri
 
-    The programs is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
+    The programs are free software: you can redistribute them and/or modify
+    them under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+    any later version.
 
     The programs are distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
