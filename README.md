@@ -1,7 +1,7 @@
 ### Hi there 🤘
 
 - 🔭 I’m currently working on Some Telegram Projects
-- 🌱 I’m currently learning Advanced Python Coding
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: You Can Reach me @ any of My Social Media Platforms that are Listed [here](http://contact.jayantkageri.ml)
 - I don't have any Public Repositories because my all Projects are Closed Source
 - Know my Full Information [here](https://telegram.dog/kageri250)
@@ -36,5 +36,3 @@ My Open-source Projects are Licenced Under GNU General Public License v3.0
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight&include_all_commits=True)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantkageri&" alt="jayantkageri" /></p>
