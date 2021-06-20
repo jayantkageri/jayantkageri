@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on Some Telegram Projects
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: You Can Reach me @ any of My Social Media Platforms that are Listed [here](http://contact.jayantkageri.ml)
-- I don't have any Public Repositories because my all Projects are Closed Source
-- Know my Full Information [here](https://telegram.dog/kageri250)
+- ℹ️ Know my Full Information [here](https://telegram.dog/kageri250)
 
 ### Donation
 - Donation Link : [Click Here](http://donate.jayantkageri.ml)
