@@ -18,7 +18,7 @@ My Open-source Projects are Licenced Under GNU General Public License v3.0
 ```
     Copyright (C) 2020 - 2021 Jayant Kageri
 
-    The programs are free software: you can redistribute them and/or modify
+    The programs are free software: you can redistribute them or modify
     them under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     any later version.
