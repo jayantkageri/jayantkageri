@@ -4,7 +4,7 @@
 <p> ⚡ Speed Learner </p>
 <p> 👨‍💻 Life is Coding, Coding is Life </p>
 
-> [➕ Read More](https://telegram.dog/kageri250)
+> [➕ Read More](https://telegram.me/kageri250)
 ---
 
 ###  📊 Stats
@@ -12,7 +12,7 @@
 ---
 
 ### 🔗 Connect with me
-<a href="https://jayantkageri.ml" target="_blank" rel="noopener noreferrer"><img align="left" alt="https://jayantkageri.ml" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://jayantkageri.in" target="_blank" rel="noopener noreferrer"><img align="left" alt="https://jayantkageri.ml" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://github.com/jayantkageri" target="_blank" rel="noopener noreferrer"><img align="left" alt="jayantkageri" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
 <a href="https://telegram.dog/jayantkageri" target="_blank" rel="noopener noreferrer"><img align="left" alt="jayantkageri" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
 <a href="https://twitter.com/jayantkageri" target="_blank" rel="noopener noreferrer"><img align="left" alt="jayantkageri" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
