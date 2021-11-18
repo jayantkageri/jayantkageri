@@ -1,14 +1,12 @@
 ### ℹ️ About
-<p> 🖥️ A (Pro)Grammer from India 🇮🇳 </p>
-<p> 🐍 Python Developer </p>
-<p> ⚡ Speed Learner </p>
-<p> 👨‍💻 Life is Coding, Coding is Life </p>
+<p> 🧑‍💻 Developer | 🎨 Desginer </p>
+<p> 💭 Nothing is easy in life when you aren't interested in it. </p>
 
 > [➕ Read More](https://telegram.me/kageri250)
 ---
 
 ###  📊 Stats
-![Metrics](https://metrics.lecoq.io/jayantkageri?template=classic&languages=1&pagespeed=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=py&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/jayantkageri?template=classic&base.metadata=0&languages=1&people=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 ---
 
 ### 🔗 Connect with me
