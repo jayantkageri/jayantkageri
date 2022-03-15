@@ -1,5 +1,5 @@
 # [Jayant Hegde Kageri](https://jayantkageri.in)
-> Nothing is easy in life when you aren't interested in it.
+> Nothing is easy in life when you aren't interested.
 
 - Software Developer
 > Python, JavaScript, ReactJS
