@@ -2,7 +2,7 @@
 > <i>Nothing is easy in life when you aren't interested.</i>
 <hr>
 
-* Software Developer
+* Web Developer
 	> Python, JavaScript, ReactJS, NextJS, ExpressJS
 
 * Supporting Me
